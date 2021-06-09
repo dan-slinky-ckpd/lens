@@ -275,7 +275,7 @@
     "@types/progress-bar-webpack-plugin": "^2.1.0",
     "@types/proper-lockfile": "^4.1.1",
     "@types/randomcolor": "^0.5.5",
-    "@types/react": "^17.0.0",
+    "@types/react": "^17.0.10",
     "@types/react-beautiful-dnd": "^13.0.0",
     "@types/react-dom": "^17.0.0",
     "@types/react-router-dom": "^5.1.6",
